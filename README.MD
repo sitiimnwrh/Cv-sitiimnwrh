@@ -1,9 +1,9 @@
-#  Tugas Project CV Kuliah Sesi 7
+#  Tugas Project CV
 
 - **Mata Kuliah:**
  CSF412 Pemrograman Web EU101
 - **Dosen Pengampu:** 
-TRI ISMARDIKO WIDYAWAN, S.Kom, M.Kom
+Hendry Gunawan,S.Kom,MM
 - **Universitas:** 
 Universitas Esa Unggul
 
